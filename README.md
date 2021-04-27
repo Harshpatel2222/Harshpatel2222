@@ -15,8 +15,8 @@
 [instagram]: https://www.instagram.com/harrrsh22_/
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpatel2222&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpatel2222&theme=light)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshpatel2222&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshpatel2222&show_icons=true&theme=light)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Harshpatel2222)
