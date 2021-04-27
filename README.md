@@ -26,4 +26,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshpatel2222&show_icons=true&theme=light)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Harshpatel2222)
+
