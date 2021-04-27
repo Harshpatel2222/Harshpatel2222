@@ -14,7 +14,6 @@
 [linkedin]: https://www.linkedin.com/in/harsh-patel-733249197/
 [instagram]: https://www.instagram.com/harrrsh22_/
 
----
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpatel2222&theme=light)
 
