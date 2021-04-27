@@ -7,9 +7,8 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/harrrsh22_"> 
-  <img align="left" alt="Harsh Patel | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/instagram.svg" />
-</a>
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <a href="https://twitter.com/harrrsh22_"> 
   <img align="left" alt="Harsh Patel | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
@@ -25,6 +24,6 @@
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpatel2222&theme=light)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshpatel2222&show_icons=true&theme=light)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Harshpatel2222)
