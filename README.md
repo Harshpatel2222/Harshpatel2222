@@ -29,3 +29,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshpatel2222)
 
 
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshpatel2222)](https://github.com/anuraghazra/github-readme-stats)
