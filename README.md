@@ -16,7 +16,7 @@
 <a href="https://discord.gg/8TG3Jy8J">
   <img align="left" alt="Harsh's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-<a href="mailto:patelharshashokkumar@gmail.com"><img src="https://img.shields.io/badge/-patelharshashokkumar@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:harshpatel.hp908@gmail.com@gmail.com" alt="Gmail Badge">
+<a href="mailto:harshpatel.hp908@gmail.com"><img src="https://img.shields.io/badge/-harshpatel.hp908@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:harshpatel.hp908@gmail.com@gmail.com" alt="Gmail Badge">
 </a>
 
 [linkedin]: https://www.linkedin.com/in/harsh-patel-733249197/
