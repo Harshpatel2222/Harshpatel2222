@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://svgshare.com/i/Xzx.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://svgshare.com/i/Xz5.svg" />][instagram]
 <a href="https://twitter.com/harrrsh22_"> 
   <img align="left" alt="Harsh Patel | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
